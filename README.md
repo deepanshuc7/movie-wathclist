@@ -28,8 +28,8 @@ A modern, responsive movie watchlist application built with React, Vite, Firebas
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movie-watchlist-app.git
-   cd movie-watchlist-app
+   git clone https://github.com/deepanshuc7/movie-watchlist.git
+   cd movie-watchlist
    ```
 
 2. **Install dependencies**
