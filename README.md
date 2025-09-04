@@ -1,6 +1,7 @@
 # 🎬 Movie Watchlist App
 
 A modern, responsive movie watchlist application built with React, Vite, Firebase, and The Movie Database (TMDB) API. Users can discover movies, manage their watchlist, favorites, and track watched movies with Firebase authentication.
+[link](https://movie-watchlist-web.netlify.app/)
 
 ## ✨ Features
 
